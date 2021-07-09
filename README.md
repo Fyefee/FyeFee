@@ -1,5 +1,7 @@
 ### Hello everyone, I'm Jeffy :pray:
 
+<hr>
+
 ### Now I'm listening to :musical_note:
 [![Spotify](https://novatorem-hmk13dsvj-fyefee.vercel.app/api/spotify)](https://open.spotify.com/user/21klppvvelkw3g33x56nldlvi)
 <!--
