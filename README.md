@@ -1,5 +1,6 @@
 ### Hello everyone, I'm Jeffy :pray:
-### [![Spotify](https://novatorem-hmk13dsvj-fyefee.vercel.app/api/spotify)](https://open.spotify.com/user/21klppvvelkw3g33x56nldlvi)
+
+[![Spotify](https://novatorem-hmk13dsvj-fyefee.vercel.app/api/spotify)](https://open.spotify.com/user/21klppvvelkw3g33x56nldlvi)
 <!--
 **Fyefee/FyeFee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
